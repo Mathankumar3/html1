@@ -1,0 +1,39 @@
+body {
+    background-color: white;
+    margin-top: 30px;
+
+}
+    div.card-box{
+      
+      color: black;
+    }
+.card-box1{
+  width: 50px;
+
+}
+
+.container{
+    width: 70%;
+    padding: 25px 25px;
+    border-radius: 30px;
+    background-color:whitesmoke;
+}
+
+
+i{
+    color: yellow;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #D6EEEE;
+  }
